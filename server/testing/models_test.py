@@ -1,4 +1,5 @@
-from models import *
+from server.models import Animal, Enclosure, Zookeeper
+
 
 
 class TestAnimal:
